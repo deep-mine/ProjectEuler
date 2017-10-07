@@ -1,0 +1,11 @@
+74-402
+75-161667
+110
+108
+
+# Project-Euler
+My solutions to some of the Project Euler questions
+
+![icon](http://projecteuler.net/profile/Ghost_dsb.png)
+
+Friend key = 977718_IWfCzni3bXQsGNXlACRmTDe5dZZ7AzfY
