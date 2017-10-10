@@ -55,5 +55,16 @@ def primelist(number):
 			prime.append(i)	
 	return prime
 
-a = [int(x) for x in input().split(" ")].sort()
-print(a)
+n = int(input())
+for i in range(n):
+	for j in range(n):
+		if (i+j)==n-1:
+			print("/",end=" ")
+			k = j
+			if j<=n-3:
+				while k<n:
+					print("/",end=" ")
+					k+=4
+		else:
+			print("",end=" ")
+	print()
