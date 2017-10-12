@@ -22,4 +22,4 @@ for d in range(2,1001):
 		if h > max_h:
 			max_h = h
 			ans = d
-		print(max_h,ans)
+print(max_h,ans)
