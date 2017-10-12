@@ -7,7 +7,7 @@ def digitList(num):
 
 limit = 10000
 ans = 0
-for i in range(1000,limit):
+for i in range(5000,limit):
     count = 0
     j = i+1
 
@@ -22,4 +22,4 @@ for i in range(1000,limit):
 
 print(ans,ans**3)
 
-#5027 127035954683
+
